@@ -1,7 +1,7 @@
 # AnaliseDeDados-Saude-Diabetes - SAÚDE
 
 
-O objetivo deste projeto é fazer a análise de um conjunto de dados relacionados à diabetes, com foco em várias etapas do processo de análise de dados. O projeto segue a metodologia OSEMN (Obtaining, Scrubbing, Exploring, Modeling, and Interpreting) para análise de dados. Vamos descrever brevemente cada etapa:
+O objetivo deste projeto é fazer a análise de um conjunto de dados relacionados à diabetes, com foco em várias etapas do processo de análise de dados. O projeto segue a metodologia OSEMN (Obtaining, Scrubbing, Exploring, Modeling, and Interpreting) para análise de dados. Vou descrever brevemente cada etapa:
 
 ### Obtaining our data (O): Nesta etapa, o projeto começa importando bibliotecas Python necessárias, como numpy, pandas, matplotlib, seaborn, etc. Em seguida, lê um arquivo CSV chamado "diabetes.csv" para carregar os dados que serão analisados.
 
